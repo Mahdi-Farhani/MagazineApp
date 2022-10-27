@@ -3,7 +3,7 @@ This is an application to practice PTE example, developed by Magazine group
 
 
 
-Laters Version : 1.0.0-preview 
+Laters Version : 0.0.2-RTM 
 
 Change Logs :
 
