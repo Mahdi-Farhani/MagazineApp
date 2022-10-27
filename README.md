@@ -7,13 +7,21 @@ Change Logs :
   1.0.0-preview :
       Features :
             + Sign-up
+            
             + Sing-in
+            
             + SMS-Verification
+            
             + Email-Verification
+            
             + Profile Avatar
+            
             + Edit profile
+            
             + All speaking tasks
+            
             + Mark as favorite
+            
             + Mark as repeated question
             
     
