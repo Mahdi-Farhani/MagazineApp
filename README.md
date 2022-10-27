@@ -1,0 +1,2 @@
+# MagazineApp
+Magazine APP
