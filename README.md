@@ -7,9 +7,14 @@ Laters Version : 1.0.0-preview
 
 Change Logs :
 
-  1.0.0-preview (2022-10-27):
+  0.0.2-RTM (2022-10-27):
   
-      Features :
+      Changes log :
+            + All writing tasks completed            
+  
+  0.0.1-RTM (2022-10-27):
+  
+      Changes log :
             + Sign-up            
             + Sing-in            
             + SMS-Verification            
