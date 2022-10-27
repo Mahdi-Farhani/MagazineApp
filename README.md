@@ -1,11 +1,11 @@
 # MagazineApp
 PTE Magazine official app
 
-Laters Version : 1.0.0-preview 2022-10-27
+Laters Version : 1.0.0-preview 
 
 Change Logs :
 
-  1.0.0-preview :
+  1.0.0-preview (2022-10-27):
   
       Features :
             + Sign-up            
