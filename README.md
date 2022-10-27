@@ -1,2 +1,3 @@
 # MagazineApp
-Magazine APP
+PTE Magazine official app
+
