@@ -24,7 +24,7 @@ Change Logs :
 # Special thanks to :
 [Hossein Babriani](https://github.com/HosseinBabriani)  for contribution  
 Babak Ahmadi for graphic design  
-and All magazine group members
+and all magazine-group members
 	
 # Contact US :
 https://www.ptemagazine.net  
