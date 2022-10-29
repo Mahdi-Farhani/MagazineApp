@@ -22,9 +22,9 @@ Change Logs :
       + Mark as favorite            
       + Mark as repeated question  
 # Special thanks to :
-	[https://github.com/HosseinBabriani]Hossein Babriani for contribution  
-	Babak Ahmadi for graphic design  
-	and All magazine group members
+[Hossein Babriani](https://github.com/HosseinBabriani)  for contribution  
+Babak Ahmadi for graphic design  
+and All magazine group members
 	
 # Contact US :
 https://www.ptemagazine.net  
