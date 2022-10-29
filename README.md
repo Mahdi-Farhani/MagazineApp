@@ -1,7 +1,10 @@
 # PTEMagazine practice application
 This is an application to practice PTE example, developed by Magazine group  
-# Latest Version : 0.0.3-RTM  (2022-10-29)  
+# Latest Version : 0.0.4-RTM  (2022-10-29)  
 Change Logs :
+  0.0.4-RTM (2022-10-29):    
+	
+      + All Reading tasks completed            
   0.0.3-RTM (2022-10-29):    
 	
       + All listening tasks completed            
