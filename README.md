@@ -30,4 +30,4 @@ and all magazine-group members
 https://www.ptemagazine.net  
 [PTEMagazine Telegram channel](https://t.me/PTEmagazine)  
 [PTEMagazine Telegram group](https://t.me/PTEmag)  
-Email us: info@ptemagazine.net
+info@ptemagazine.net
